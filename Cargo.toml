@@ -1,0 +1,8 @@
+[package]
+name = "derp-shell"
+version = "0.1.0"
+edition = "2021"
+authors = ["Yeo Wen Qin <yeo_dev@protonmail.com>"]
+
+[dependencies]
+phf = { version = "0.11.2", features = ["macros"] } 
